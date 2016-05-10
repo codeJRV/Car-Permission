@@ -5,6 +5,6 @@ Login_ID = carpermissionbot@gmail.com
 Password = carpermy
 smtpserver= smtp.gmail.com:587
 
-To_mail = jrvarghese@bajajauto.co.in
+To_mail = example@bajajauto.co.in
 
 My_subject = Car Permission
