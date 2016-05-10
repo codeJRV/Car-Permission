@@ -1,0 +1,10 @@
+days_offset = 1
+
+From_mail = carpermissionbot@gmail.com
+Login_ID = carpermissionbot@gmail.com
+Password = carpermy
+smtpserver= smtp.gmail.com:587
+
+To_mail = jrvarghese@bajajauto.co.in
+
+My_subject = Car Permission
